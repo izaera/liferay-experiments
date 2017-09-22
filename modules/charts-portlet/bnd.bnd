@@ -1,0 +1,3 @@
+Bundle-Name: charts-portlet
+Bundle-SymbolicName: com.liferay.experiment.charts.portlet
+Bundle-Version: 1.0.0
